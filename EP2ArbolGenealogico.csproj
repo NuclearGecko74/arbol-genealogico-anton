@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="src\DataStructures\Node.cs" />
     <Compile Include="src\DataStructures\FamilyTree.cs" />
+    <Compile Include="src\Menu.cs" />
     <Compile Include="src\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

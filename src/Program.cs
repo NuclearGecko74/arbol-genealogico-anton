@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EP2ArbolGenealogico.src;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,8 @@ namespace EP2ArbolGenealogico
     {
         static void Main(string[] args)
         {
+            Menu menu = new Menu();
+            menu.Start();
         }
     }
 }
