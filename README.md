@@ -1,4 +1,4 @@
-# Árbol Genealógico en C#
+# Examen Práctico 2do Parcial - Árbol Genealógico en C#
 
 Este proyecto es una implementación en C# de un árbol genealógico, que permite crear nodos con un nombre, asignar padres (padre y madre) y recorrer el árbol en preorden. El proyecto se organiza en varias clases que cumplen diferentes funciones:
 
